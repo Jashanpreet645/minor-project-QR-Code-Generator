@@ -1,0 +1,1 @@
+# minor-project-QR-Code-Generator
